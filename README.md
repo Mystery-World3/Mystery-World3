@@ -1,5 +1,20 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Muhammad Mishbahul Muflihin</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+</div>
+
+### About Me
+
+- 👨‍💻 I'm a a student at Darussalam gontor University.  passionate **Software Engineer**.
+- 🔭 I'm currently working on developing efficient and scalable web applications.
+- 👯 I’m looking to collaborate on open-source projects, especially in the field of **web development** , **data science** and **cyber security**.
+- 🤔 I’m looking for help with optimizing database queries, understanding complex algorithms.
+- 💬 Ask me about **Front-end development** and **Cyber Security**.
+- 📫 How to reach me: mishbahulmuflihin@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love playing video games and hiking in my free time, I can solve a Rubik's Cube in under a minute.
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
