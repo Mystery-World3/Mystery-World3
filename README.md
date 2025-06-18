@@ -13,7 +13,7 @@
 
 ### My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
