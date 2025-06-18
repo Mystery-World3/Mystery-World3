@@ -37,27 +37,8 @@
 
 ### My GitHub Stats
 
-<div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
-### Contribution Streak
-
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Mystery-World3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
-
----
-
-### Latest Blog Posts / Articles (Opsional)
-
-Jika Anda memiliki blog atau sering menulis artikel, Anda bisa menampilkannya secara otomatis.
-* [Judul Artikel Terbaru 1](link-ke-artikel-1)
-* [Judul Artikel Terbaru 2](link-ke-artikel-2)
-* [Judul Artikel Terbaru 3](link-ke-artikel-3)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
