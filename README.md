@@ -53,5 +53,6 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/sentence.svg?font=Fira+Code&size=20&color=F7F7F7&center=true&vCenter=true&width=400&lines=it's+never+too+late" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=8be9fd&center=true&vCenter=true&width=700&lines=Hello+Everybody+%F0%9F%91%8B+I'm+Mystery-World3!;Welcome+to+my+GitHub+Profile!;It's+never+too+late!" alt="Typing SVG" />
 </div>
+
