@@ -49,3 +49,9 @@
 <a href="https://kaggle.com/mishbahulmuflihin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mishbahulmuflihin" height="30" width="40" /></a>
 <a href="https://instagram.com/m.mishbahul.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mishbahul.m" height="30" width="40" /></a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/sentence.svg?font=Fira+Code&size=20&color=F7F7F7&center=true&vCenter=true&width=400&lines=it's+never+too+late" alt="Typing SVG" />
+</div>
