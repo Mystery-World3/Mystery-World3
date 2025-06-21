@@ -37,10 +37,22 @@
 
 ### My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<p align="left">
+  <a href="https://github.com/Mystery-World3">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true"
+      alt="Mystery-World3's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/Mystery-World3">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Mystery-World3's Top Languages"
+    />
+  </a>
+</p>
 
 ### Connect with me:
 
