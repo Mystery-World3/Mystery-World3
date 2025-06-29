@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=8be9fd&center=true&vCenter=true&width=700&lines=Hello+Everybody+%F0%9F%91%8B+I'm+Mystery-World3!;Welcome+to+my+GitHub+Profile!;It's+never+too+late!" alt="Typing SVG" />
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true" alt="Mystery-World3" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -14,6 +19,35 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 - 💬 Ask me about anything related to **Frontend Development (HTML, CSS, JS)** and the fundamentals of **Cyber Security**.
 - 📫 How to reach me: **mishbahulmuflihin@gmail.com**
 - ⚡ Fun fact: I love playing video games, hiking, and I can solve a Rubik's Cube in under a minute!
+
+---
+
+### 🚀 My Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Project Name 1 (e.g., E-Commerce API)</h3>
+      <p>A brief but exciting description of your project. For example: A robust RESTful API for an e-commerce platform built with Python and Django Rest Framework, featuring JWT authentication.</p>
+      <div>
+        <a href="[LINK TO YOUR REPO]" target="_blank">Repository</a> | 
+        <a href="[LINK TO LIVE DEMO]" target="_blank">Live Demo</a>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=py,django,postgres" alt="tech stack">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project Name 2 (e.g., Data Viz Dashboard)</h3>
+      <p>A brief but exciting description of your project. For example: An interactive dashboard to visualize sales data, built with React for the frontend and fetching data from a custom API.</p>
+      <div>
+        <a href="[LINK TO YOUR REPO]" target="_blank">Repository</a> | 
+        <a href="[LINK TO LIVE DEMO]" target="_blank">Live Demo</a>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,js,css,html" alt="tech stack">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,7 +89,7 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="Mystery-World3's GitHub stats" />
@@ -64,13 +98,19 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mystery-World3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mystery-World3/Mystery-World3/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
 
 ---
 
 ### 🤝 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/muhammad-mishbahul-muflihin-27a86a331" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mishbahul-muflihin-27a86a331" height="30" width="40" /></a>
-<a href="https://kaggle.com/mishbahulmuflihin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mishbahulmuflihin" height="30" width="40" /></a>
-<a href="https://instagram.com/m.mishbahul.m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mishbahul.m" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammad-mishbahul-muflihin-27a86a331" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mishbahul-muflihin-27a86a331" height="30" width="40" /></a>
+  <a href="https://kaggle.com/mishbahulmuflihin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mishbahulmuflihin" height="30" width="40" /></a>
+  <a href="https://instagram.com/m.mishbahul.m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mishbahul.m" height="30" width="40" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
