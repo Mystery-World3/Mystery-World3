@@ -1,10 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=8be9fd&center=true&vCenter=true&width=700&lines=Hello+Everybody+%F0%9F%91%8B+I'm+Mystery-World3!;Welcome+to+my+GitHub+Profile!;It's+never+too+late!" alt="Typing SVG" />
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true" alt="Mystery-World3" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -100,6 +95,11 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mystery-World3/Mystery-World3/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true" alt="Mystery-World3" />
+  </a>
 </p>
 
 ---
