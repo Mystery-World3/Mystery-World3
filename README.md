@@ -17,35 +17,6 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 
 ---
 
-### 🚀 My Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Name 1 (e.g., E-Commerce API)</h3>
-      <p>A brief but exciting description of your project. For example: A robust RESTful API for an e-commerce platform built with Python and Django Rest Framework, featuring JWT authentication.</p>
-      <div>
-        <a href="[LINK TO YOUR REPO]" target="_blank">Repository</a> | 
-        <a href="[LINK TO LIVE DEMO]" target="_blank">Live Demo</a>
-      </div>
-      <br>
-      <img src="https://skillicons.dev/icons?i=py,django,postgres" alt="tech stack">
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Name 2 (e.g., Data Viz Dashboard)</h3>
-      <p>A brief but exciting description of your project. For example: An interactive dashboard to visualize sales data, built with React for the frontend and fetching data from a custom API.</p>
-      <div>
-        <a href="[LINK TO YOUR REPO]" target="_blank">Repository</a> | 
-        <a href="[LINK TO LIVE DEMO]" target="_blank">Live Demo</a>
-      </div>
-      <br>
-      <img src="https://skillicons.dev/icons?i=react,js,css,html" alt="tech stack">
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Languages and Tools
 
 <table>
