@@ -62,7 +62,7 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true" alt="Mystery-World3's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
