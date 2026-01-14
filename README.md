@@ -57,20 +57,20 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="Mystery-World3's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true" alt="Mystery-World3's Top Languages" height="150" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![Mishbahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Mystery-World3)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mystery-World3)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true&margin-w=15&margin-h=15" alt="Mystery-World3 Trophies" />
-  </a>
-</p>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true)](https://github.com/Mystery-World3)
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
