@@ -57,31 +57,24 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 
 ### 📊 My GitHub Stats & Activity
 
-<div align="center">
+![Mishbahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true)
 
-[![Mishbahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Mystery-World3)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mystery-World3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true)](https://github.com/Mystery-World3)
-
-<br/>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🤝 Connect with me
 
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-mishbahul-muflihin-27a86a331" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/mishbahulmuflihin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/m.mishbahul.m" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-mishbahul-muflihin-27a86a331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mishbahul-muflihin" height="30" width="40" /></a>
+<a href="https://kaggle.com/mishbahulmuflihin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mishbahulmuflihin" height="30" width="40" /></a>
+<a href="https://instagram.com/m.mishbahul.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mishbahul.m" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
