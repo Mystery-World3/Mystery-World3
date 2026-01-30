@@ -82,6 +82,14 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
   <a href="https://instagram.com/m.mishbahul.m" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Mystery-World3" />
+  </a>
+</div>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
