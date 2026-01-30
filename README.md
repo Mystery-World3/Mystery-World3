@@ -58,13 +58,16 @@ I am a **Software Engineering** student at Darussalam Gontor University with a s
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-
-[![Mishbahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000)](https://git.io/streak-stats)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Mishbahul's GitHub Stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180" src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </a>
 </div>
 
 ---
