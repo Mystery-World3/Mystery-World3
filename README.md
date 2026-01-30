@@ -88,13 +88,10 @@ I am a **Software Engineering** student at **Darussalam Gontor University**, cur
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Mishbahul's GitHub Stats" />
   </a>
-  
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Streak" />
   </a>
-
   <br/>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Top Languages" />
   </a>
@@ -111,7 +108,12 @@ I am a **Software Engineering** student at **Darussalam Gontor University**, cur
   <a href="https://kaggle.com/mishbahulmuflihin" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <a href="https://www.instagram.com/m.mishbahul.m?igsh=MWNhM3ZzajNobm9lcg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:mishbahulmuflihin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" width="100%"/>
