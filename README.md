@@ -1,84 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mishbahul!+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+Architecture;Focusing+on+Audio+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mishbahul!+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Web+Developer+%26+Tech+Explorer;Always+Learning,+Always+Coding" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Mystery-World3" />
+  </a>
 </div>
 
 ---
 
 ### <img src="https://media.giphy.com/media/WnI6C2JuqV9N1GSz2n/giphy.gif" width="30px"> About Me
 
-I am a **Software Engineering** student at **Darussalam Gontor University**, currently diving deep into the world of **Artificial Intelligence**. My research focus is on **Semi-Supervised Contrastive Learning** and **Audio Feature Representation**.
+I am a **Software Engineering** student at **Darussalam Gontor University**. I bridge the gap between **Web Development** and **Artificial Intelligence**. Currently focusing on **Audio Analysis** and **Contrastive Learning** for my thesis, while maintaining my passion for building scalable web apps.
 
-- 🔭 I’m currently working on my thesis related to **Audio Tahsin Qiroah Analysis**.
+- 🔭 I’m currently working on **Semi-Supervised Contrastive Learning**.
+- 💻 Experienced in **Fullstack Web Development** (PHP, JS, SQL).
 - 🧠 Deeply interested in **Neural Networks**, **Computer Vision**, and **NLP**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects** and **Data Science Competitions**.
-- ⚡ Fun fact: I treat model training like cooking; sometimes it burns, sometimes it's delicious! 🍳
+- ⚡ Fun fact: I love hiking and I can solve a Rubik's Cube in under a minute! 🧩
 
 ---
 
-### 🛠️ AI & Data Science Stack
+### 🚀 Tech Arsenal & Tools
 
-<table>
-  <tr>
-    <td align="center" width="180"><strong>Languages</strong></td>
-    <td align="center" width="180"><strong>ML & DL Frameworks</strong></td>
-    <td align="center" width="180"><strong>Data Manipulation</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-      </a>
-      <br>Python
-    </td>
-    <td align="center">
-      <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> 
-      </a>
-      <a href="https://www.tensorflow.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> 
-      </a>
-      <a href="https://scikit-learn.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> 
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> 
-      </a>
-      <a href="https://numpy.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> 
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180"><strong>Tools & Environment</strong></td>
-    <td align="center" width="180"><strong>Web & Deploy (Secondary)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://jupyter.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/> 
-      </a>
-      <a href="https://colab.research.google.com/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="45" height="45"/> 
-      </a>
-      <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/> 
-      </a>
-      <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Data_Science-blue?style=for-the-badge" />
+  <br/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/></a>
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Skill-Web_Development-orange?style=for-the-badge" />
+  <br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Tools-DevOps_%26_OS-gray?style=for-the-badge" />
+  <br/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+</div>
 
 ---
 
