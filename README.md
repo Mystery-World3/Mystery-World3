@@ -3,21 +3,19 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mystery-World3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Mystery-World3" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
 ### <img src="https://media.giphy.com/media/WnI6C2JuqV9N1GSz2n/giphy.gif" width="30px"> About Me
 
-I am a **Software Engineering** student at **Darussalam Gontor University**. I bridge the gap between **Web Development** and **Artificial Intelligence**. Currently focusing on **Audio Analysis** and **Contrastive Learning** for my thesis, while maintaining my passion for building scalable web apps.
+I am a **Software Engineering** student at **Darussalam Gontor University**. I bridge the gap between **Web Development** and **Artificial Intelligence**. Currently focusing on **Audio Analysis** and **Contrastive Learning** for my thesis.
 
 - 🔭 I’m currently working on **Semi-Supervised Contrastive Learning**.
 - 💻 Experienced in **Fullstack Web Development** (PHP, JS, SQL).
 - 🧠 Deeply interested in **Neural Networks**, **Computer Vision**, and **NLP**.
-- ⚡ Fun fact: I love hiking and I can solve a Rubik's Cube in under a minute! 🧩
+- ⚡ Fun fact: I treat model training like cooking; sometimes it burns, sometimes it's delicious! 🍳
 
 ---
 
@@ -33,7 +31,6 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/></a>
   
   <br/><br/>
 
@@ -45,7 +42,6 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
 
   <br/><br/>
 
@@ -55,7 +51,6 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </div>
 
 ---
@@ -89,9 +84,10 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <a href="https://www.instagram.com/m.mishbahul.m?igsh=MWNhM3ZzajNobm9lcg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:mishbahulmuflihin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
