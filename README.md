@@ -85,6 +85,9 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,js,php,mysql,html,css,linux,git,vscode,docker&theme=dark" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
