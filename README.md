@@ -70,6 +70,14 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   </a>
 </div>
 
+
+<div align="center">
+  <h3>🎵 Recently Played on Spotify</h3>
+  <a href="https://open.spotify.com/user/31dpnig7qezmzcbk2i6soj52t2yy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dpnig7qezmzcbk2i6soj52t2yy&count=5&unique=true" alt="Spotify Recently Played" />
+  </a>
+</div>
+
 ---
 
 ### 🤝 Let's Connect
