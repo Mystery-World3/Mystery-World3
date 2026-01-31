@@ -70,6 +70,7 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   </a>
 </div>
 
+---
 
 <div align="center">
   <h3>🎵 Recently Played on Spotify</h3>
@@ -92,9 +93,14 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <a href="https://www.instagram.com/m.mishbahul.m?igsh=MWNhM3ZzajNobm9lcg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="mailto:mishbahulmuflihin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Mystery-World3&color=33CCFF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
+
