@@ -60,12 +60,6 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mystery-World3&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mystery-World3&theme=tokyonight" alt="Most Commit Language" />
-
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Streak" />
-  </a>
 </div>
 
 ---
