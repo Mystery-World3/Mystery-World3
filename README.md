@@ -57,27 +57,7 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Mishbahul's GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Top Languages" />
-  </a>
-</div>
 
----
-
-<div align="center">
-  <h3>🎵 Recently Played on Spotify</h3>
-  <a href="https://open.spotify.com/user/31dpnig7qezmzcbk2i6soj52t2yy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dpnig7qezmzcbk2i6soj52t2yy&count=5&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
 
 ---
 
