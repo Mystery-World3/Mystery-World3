@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mishbahul!+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Web+Developer+%26+Tech+Explorer;It+is+Never+too+Late" alt="Typing SVG" />
 </div>
-.
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
 </div>
