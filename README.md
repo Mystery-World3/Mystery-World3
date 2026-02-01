@@ -58,7 +58,7 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true&disable_animations=true" alt="Mishbahul's GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Mishbahul's GitHub Stats" width="100%" />
         </a>
       </td>
       <td align="center" width="50%">
@@ -70,23 +70,13 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   </table>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=6&disable_animations=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
 </div>
-
----
-
-<div align="center">
-  <h3>🎵 Recently Played on Spotify</h3>
-  <a href="https://open.spotify.com/user/31dpnig7qezmzcbk2i6soj52t2yy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dpnig7qezmzcbk2i6soj52t2yy&count=5&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
-
 ---
 
 ### 🤝 Let's Connect
