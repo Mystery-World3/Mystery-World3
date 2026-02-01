@@ -64,7 +64,7 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <br/>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
+    <img height="170" src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Streak" />
   </a>
 </div>
 
