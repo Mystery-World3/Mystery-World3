@@ -67,15 +67,21 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
         </a>
       </td>
     </tr>
-  </table>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Top Languages" width="100%" />
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
