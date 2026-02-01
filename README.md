@@ -51,25 +51,17 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true&t=1" alt="Mishbahul's GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=1a1b26&t=1" alt="GitHub Streak" />
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mystery-World3&theme=tokyonight" alt="Profile Details" />
   <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true&t=1" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mystery-World3&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mystery-World3&theme=tokyonight" alt="Most Commit Language" />
   
-  <br/>
+  <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true&t=1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
