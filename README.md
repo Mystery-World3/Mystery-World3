@@ -57,25 +57,21 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Mishbahul's GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Mishbahul's GitHub Stats" />
+  </a>
+    </td>  
+    <td align="center" width="50%">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Mystery-World3&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Streak" />
+  </a>
+    </td>
     </tr>
   </table>
-
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&disable_animations=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&disable_animations=true" height="180" alt="Top Languages" />
   </a>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mystery-World3&theme=tokyonight&bg_color=1a1b26&hide_border=true&area=true" width="100%" />
 </div>
 ---
 
