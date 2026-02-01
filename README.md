@@ -54,11 +54,11 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="Mishbahul's GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Mystery-World3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true&disable_animations=true" alt="Mishbahul's GitHub Stats" width="100%" />
         </a>
       </td>
       <td align="center" width="50%">
@@ -70,7 +70,7 @@ I am a **Software Engineering** student at **Darussalam Gontor University**. I b
   </table>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-World3&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=6&disable_animations=true" alt="Top Languages" />
   </a>
   
   <br/><br/>
