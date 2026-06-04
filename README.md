@@ -10,7 +10,7 @@ Saya adalah mahasiswa **Teknologi Informasi dan Rekayasa Perangkat Lunak** di **
 
 - 🔭 Sedang mengerjakan proyek **Semi-Supervised Contrastive Learning**.
 - 💻 Berpengalaman di **Fullstack Web Development** (PHP, JS, SQL) & **DevOps/Cybersecurity**.
-- 🧠 Tertarik mendalam pada **Neural Networks**, **Computer Vision**, dan **Audio Processing**.
+- 🧠 Tertarik mendalam pada **Machine Learning**, **Computer Vision**, dan **CyberSecurity**.
 - ⚡ Fun fact: Saya menganggap *training model* itu seperti memasak; kadang gosong, kadang enak banget! 🍳 Kalau lagi nunggu proses training, biasanya saya main Rubik (sub-1 menit) atau belajar bahasa Mandarin.
 
 ---
